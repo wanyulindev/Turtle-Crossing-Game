@@ -7,7 +7,7 @@ You might've played Crossy Road. This is a similar concept. We have a whole bunc
 + how to inherit classes (Inheritance Classes)
 + how to use the objects created from classes
 + knowledge of turtle coordinate system
-+ turtle game engine
++ knowledge of turtle game engine
 
 
 
